@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['douban\\settings.py', 'douban\\pipelines.py', 'douban\\middlewares.py', 'douban\\main.py', 'douban\\items.py', 'douban\\__init__.py', 'douban\\spiders\\douban_spider.py', 'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\twisted\\internet\\endpoints.py', 'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\scrapy\\cmdline.py', 'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\scrapy\\commands\\crawl.py', 'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\scrapy\\crawler.py', 'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\twisted\\internet\\base.py', 'douban\\spiders\\__init__.py']
+
